@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/contact.html</loc>
+<loc>https://caferace.nl/contact.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>https://caferace.nl/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/info.html</loc>
+<loc>https://caferace.nl/info.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/locatie.html</loc>
+<loc>https://caferace.nl/locatie.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/voorwaarden.html</loc>
+<loc>https://caferace.nl/voorwaarden.html</loc>
 </url>
 </urlset>
